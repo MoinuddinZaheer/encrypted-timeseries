@@ -1,0 +1,13 @@
+.card {
+  margin: 10px;
+  border: 1px sold white;
+  z-index: 1;
+  border-radius: 25px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 600;
+}
